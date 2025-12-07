@@ -4,6 +4,8 @@
 
 This project demonstrates real-time **facial landmark detection** using **MediaPipe Face Mesh**.
 
+> Note: Multiple people supported.
+
 The project allows you to:
 
 - Detect and visualize facial landmarks in real-time.
